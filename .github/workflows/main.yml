@@ -25,7 +25,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: cloudmaniac/<username>.github.io
+          external_repository: cloudmaniac/vcat
           publish_dir: ./public
           publish_branch: master
           cname: test1.vcat.cluster.net
