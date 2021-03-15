@@ -16,6 +16,12 @@ Additional comments:
 * I imported existing vCAT PDFs in the **Core Platform** and **Networking & Security** sections using PDF2Markdown applications (e.g., [Aspose](https://products.aspose.app/words/conversion/pdf-to-md)): the rendering is off the shelf (I didn't touch it).
 * Some examples of collaboration: [Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github)
 
+## Contribute
+
+**You can contribute by submitting a PR in the [source Git repository](https://github.com/cloudmaniac/vcat-sources): the actual content is in the `content` folder.**
+
+If the GitHub Actions CI/CD pipeline is correctly working, the website should be automatically updated a few seconds later.
+
 ## Overview
 
 The **VMware vCloud Architecture Toolkit for Service Providers** (vCAT-SP) is a set of reference documents for VMware Cloud Providers. It is designed to help IT managers and architects construct cloud platforms and service offerings using current technologies, recommended practices, and innovative tools.
