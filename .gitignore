@@ -4,3 +4,6 @@
 
 # Local Visual Studio Code files
 .vscode/
+
+# Config
+ADMIN.md

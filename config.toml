@@ -1,3 +1,4 @@
 baseURL = "http://test1.vcat.cluster.net/"
 languageCode = "en-us"
 title = "VCAT Future"
+theme = "casper-two"
