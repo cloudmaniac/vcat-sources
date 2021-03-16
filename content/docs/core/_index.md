@@ -195,15 +195,7 @@ As outlined previously, to develop a secure and trusted multitenancy service mod
 
 **Figure 8. Six Elements of the Shared vCenter Platform**
 
-vCenter Multitenant Model
-![](Aspose.Words.8316b11a-b6da-42ce-b407-8926dab20fee.046.png)
-
-- Service Management and Control
-- Tenant Management and Control
-- Secure Separation
-- Availability and Data Protection
-- Service Assurance
-- Security and Compliance
+![vCenter Multitenant Model](images/vCenterServerUseCasesandArchitectures.png)
 
 ### Design Considerations for Secure Separation
 
